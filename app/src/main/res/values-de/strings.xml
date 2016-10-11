@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Labor 1</string>
+    <string name="app_synopsis">Willkommen bei Android-Entwicklung</string>
+    <string name="hello_message">Guten Tag!</string>
+    <string name="button_name">Ich bin nur ein Knopf</string>
+</resources>
